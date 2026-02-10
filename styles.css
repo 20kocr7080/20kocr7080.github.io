@@ -23,8 +23,8 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: underline;
-  font-size: 23px;
-  width: 8%;
+  font-size: 20px;
+  width: 10%;
   border-radius: 6%;
 }
 
@@ -79,3 +79,4 @@ iframe{
     margin-right: auto;
 
 }
+
